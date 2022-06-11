@@ -1,6 +1,6 @@
 # Front End Develop Class
 
-codesandbox 원본 주소 : https://codesandbox.io/class06
+codesandbox 원본 주소 : https://codesandbox.io/s/class06-8nxi8c?file=/README.md
 
 - md 화일 문법
 
@@ -22,3 +22,13 @@ codesandbox 원본 주소 : https://codesandbox.io/class06
   서비스와 데이터 처리등의 기능이 실행됨
 
 ### Front End Develop VS Back End Develop
+
+- Front End, Back End 용어
+  - Front : 사용자를 기준으로 사용자와 맞닿을 수 있는 화면 영역
+  - Back : 사용자가 보지 못하고, 서버상에서 데이터 처리, 기능 동작등이 이루어지는 영역
+
+- FE Dev : 사용자가 볼 수 있는 화면 개발
+  - Web FE Dev : 브라우저에서 처리되고 랜더링되는 언어를 사용해서 개발
+
+- BE Dev : 사용자가 보지 못하는 영역에서 데이터 처리
+  - 서버에서 처리되는 언어를 사용해서 개발
