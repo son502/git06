@@ -10,7 +10,7 @@ codesandbox 원본 주소 : https://codesandbox.io/class06
 
 - : 목록
 
-`` ~ ``` : 코드 블럭(backtick)
+``` ~ ``` : 코드 블럭(backtick)
 
 ```
 
